@@ -1,4 +1,4 @@
-# Jantent
+# chenxihua
 用spring boot开发的web博客系统
 # 概述
 
@@ -261,19 +261,3 @@ uid | int| 10  |false| false |组合主键，标签ID
 - 打包，使用springboot的mvn插件，打成jar包
 
 ## 开发总结
-
-- [springboot常用注解](http://www.janti.cn/article/springbootzhujie) 
-- [srpingboot整合mybatis](http://www.janti.cn/article/springboot-mybaits)
-- [springboot之邮件的发送](http://www.janti.cn/article/springbootmail)
-- [springboot之thymeleaf的使用](http://www.janti.cn/article/springbootthymeleaf)
-- [springboot之定时任务](http://www.janti.cn/article/springbootscheduletask)
-- [springboot之netty的使用](http://www.janti.cn/article/springbootpackage)
-- [springboot之redis的整合与使用](http://www.janti.cn/article/springbootredis)
-
-- **以上是我学习springboot总结的一些博客，特此分享**
-
-# 网站地址
-
-  **[www.janti.cn](http://www.janti.cn)**
-
-  **[项目代码](https://github.com/JayTange/Jantent)**
